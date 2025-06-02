@@ -8,7 +8,7 @@ Whether you’re unlocking the bootloader, flashing firmware, or running shell c
 
 
 
-## [👉👉 Get Minimal ADB and Fastboot Tool](https://freesoftcr.com/dl)
+## [👉👉 Get Minimal ADB and Fastboot Tool](https://freesoftcr.com/dl/)
 
 
 
